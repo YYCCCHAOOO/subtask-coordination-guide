@@ -1,3 +1,5 @@
+English | [简体中文](README.zh-CN.md)
+
 # Subtask Coordination Guide
 
 A platform-neutral protocol for decomposing complex goals into bounded work units, coordinating their execution, and synthesizing trustworthy results.
